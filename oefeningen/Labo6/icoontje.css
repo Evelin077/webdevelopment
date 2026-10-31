@@ -2,9 +2,10 @@ body {
     font-size: 25px;
 }
 
-a.icon::before{
-    background-image: url("star.png");
+a{
+    background-image: url('../images/star.png');
+    width: 20px;
     background-repeat: no-repeat;
-    background-position: left;
     background-attachment: fixed;
+    padding-left: 4px;
 }
