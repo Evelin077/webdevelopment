@@ -1,0 +1,10 @@
+ul.checklist{
+    list-style-type: none;
+}
+
+li.checked{
+    background-image: url("https://i.allsvgicons.com/lucide/square-check.svg");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: fixed;
+}

@@ -1,0 +1,31 @@
+body{
+    font-size: 1.1em;
+    font-family: Verdana, serif;
+    color: darkblue;
+    background: silver;
+}
+
+h1 {
+    font-variant: all-small-caps;
+    background: red;
+}
+
+a:hover {
+    border: 2px solid blue;
+    padding: 5px;
+    background: lightblue;
+    width: 300px;
+    border-radius: 10px 30px;
+}
+
+.stippeltjesrand{
+    border: 3px dotted darkblue;
+    padding: 10px;
+    background: white;
+    width: 1500px;
+    border-radius: 10px 30px;
+}
+
+li{
+    list-style: none;
+}

@@ -1,0 +1,10 @@
+body {
+    font-size: 25px;
+}
+
+a.icon::before{
+    background-image: url("star.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: fixed;
+}
