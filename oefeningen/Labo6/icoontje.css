@@ -3,9 +3,8 @@ body {
 }
 
 a{
-    background-image: url('../images/star.png');
-    width: 20px;
+    background-image: url("star.png");
+    background-size: 20%;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    padding-left: 4px;
+    padding-left: 30px;
 }

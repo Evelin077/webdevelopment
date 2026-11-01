@@ -4,17 +4,10 @@ body{
 
 ul.checklist{
     list-style-type: none;
-}
-li{
-    background-image: url("../images/square-dashed.svg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    padding-left: 4px;
+    list-style-image: url("box.png");
+    padding-right: 25px;
 }
 
-li.checked{
-    background-image: url("../images/square-dashed-x.svg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    padding-left: 4px;
+li.checked {
+    list-style-image: url(box-check.png);
 }
