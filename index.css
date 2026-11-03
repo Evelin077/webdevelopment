@@ -1,0 +1,49 @@
+body{
+    font-family: "Lucida Bright", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    color: #220424;
+    background-color: antiquewhite;
+}
+
+h2{
+    text-indent: 5px;
+    color: antiquewhite;
+    text-decoration: underline;
+}
+
+section.box{
+    border: 2px solid goldenrod;
+    padding: 7px;
+    background-image: linear-gradient(#3C284D, #220424);
+    width: 600px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 5px #1A192B;
+}
+
+a:link {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+a:visited {
+    text-decoration: none;
+    color: darkgoldenrod;
+}
+
+a:hover {
+    text-decoration: none;
+    color: palegoldenrod;
+}
+
+html {
+    background-image:url(oefeningen/images/web.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
