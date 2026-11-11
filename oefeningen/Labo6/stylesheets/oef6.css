@@ -4,10 +4,10 @@ body{
 
 ul.checklist{
     list-style-type: none;
-    list-style-image: url("box.png");
+    list-style-image: url("../../images/box.png");
     padding-right: 25px;
 }
 
 li.checked {
-    list-style-image: url(box-check.png);
+    list-style-image: url(../../images/box-check.png);
 }

@@ -3,7 +3,7 @@ body {
 }
 
 a{
-    background-image: url("star.png");
+    background-image: url("../../images/star.png");
     background-size: 20%;
     background-repeat: no-repeat;
     padding-left: 30px;
