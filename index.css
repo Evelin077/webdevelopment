@@ -16,12 +16,12 @@ h2{
 }
 
 section.box{
+    margin: 10px auto;
     border: 2px solid goldenrod;
     padding: 7px;
     background-image: linear-gradient(#3C284D, #220424);
     width: 600px;
     border-radius: 5px;
-    margin-bottom: 10px;
     box-shadow: 5px 5px 5px #1A192B;
 }
 
