@@ -1,0 +1,11 @@
+section {
+    box-sizing: border-box;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid white;
+    float: left;
+}
+
+p {
+    margin: 10px;
+}
